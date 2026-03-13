@@ -18,6 +18,6 @@ This is a solution to the [Flashcard App project](https://roadmap.sh/projects/fl
 - **Icons:** Lucide-React (optional)
 
 ## Setup Instructions
-1. Clone the repo: `git clone <your-repo-url>`
+1. Clone the repo: `git clone <https://github.com/Nithya2405/JS-FlashMaster>`
 2. Install dependencies: `npm install`
 3. Run locally: `npm run dev`
