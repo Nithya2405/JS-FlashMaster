@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Flashcard Quiz App
 
-# Run and deploy your AI Studio app
+This is a solution to the [Flashcard App project](https://roadmap.sh/projects/flash-cards) from roadmap.sh.
 
-This contains everything you need to run your app locally.
+## Project Link
+- **Challenge URL:** https://roadmap.sh/projects/flash-cards
+- **Live Demo:** [Insert your Vercel/Netlify/GitHub Pages link here]
 
-View your app in AI Studio: https://ai.studio/apps/c283db8b-4415-4ec1-b289-46282c2d7b07
+## Features
+- **State-Driven UI:** Uses React state to track current card index and flip status.
+- **Interactive Cards:** Clickable cards with a smooth flip transition to reveal answers.
+- **Progress Tracking:** A visual progress bar that updates as you navigate.
+- **Keyboard/Button Navigation:** Cycle through a deck of pre-defined JavaScript questions.
 
-## Run Locally
+## Tech Stack
+- **Framework:** React (Vite)
+- **Styling:** CSS3 (Flexbox/Grid)
+- **Icons:** Lucide-React (optional)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Setup Instructions
+1. Clone the repo: `git clone <your-repo-url>`
+2. Install dependencies: `npm install`
+3. Run locally: `npm run dev`
